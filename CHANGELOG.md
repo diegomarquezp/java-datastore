@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.20.0](https://github.com/googleapis/java-datastore/compare/v2.19.3...v2.20.0) (2024-05-20)
+
+
+### Features
+
+* New PropertyMask field which allows partial commits, lookups, and query results ([#1455](https://github.com/googleapis/java-datastore/issues/1455)) ([ff5e397](https://github.com/googleapis/java-datastore/commit/ff5e39775446216b4806f55f14dacb7fc8e8854b))
+
+
+### Bug Fixes
+
+* Migrate off TextPrinter's deprecated methods ([#1452](https://github.com/googleapis/java-datastore/issues/1452)) ([c3c1317](https://github.com/googleapis/java-datastore/commit/c3c131735863d71971110e2ac7ac0244ce16ee92))
+
 ## [2.19.3](https://github.com/googleapis/java-datastore/compare/v2.19.2...v2.19.3) (2024-05-16)
 
 
